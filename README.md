@@ -2,9 +2,9 @@
 
 A fast GUI for Homebrew written in SwiftUI
 
-[![Mastodon Link](https://img.shields.io/mastodon/follow/108939255808776594?domain=https%3A%2F%2Fmstdn.social&label=Follow%20me%20for%20updates&style=flat)](https://mstdn.social/@davidbures)
+[![Follow me on Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&label=Follow%20me%20on&color=0285FF)](https://bsky.app/profile/buresdv.eu)
 [![Discord Link](https://img.shields.io/discord/1083475351260377119?label=Talk%20to%20me%20on%20Discord&style=flat)](https://discord.gg/kUHg8uGHpG)
-[![Join the Forums](https://img.shields.io/badge/Join%20the%20Forums-orange?style=flat&link=https://forum.corkmac.app/t/cork)](https://forum.corkmac.app/t/cork)
+[![Mastodon Link](https://img.shields.io/mastodon/follow/108939255808776594?domain=https%3A%2F%2Fmstdn.social&label=Follow%20me%20for%20updates&style=flat)](https://mstdn.social/@davidbures)
 
 # My whole life is falling apart right now, so the development of Cork will be impacted
 
@@ -192,5 +192,3 @@ Cork is licensed under [Commons Clause](https://commonsclause.com).
 This means that Cork's source source is available and you can modify it, contribute to it etc., but you can't sell or distribute Cork or modified versions of it.
 
 Moreover, you can’t distribute compiled versions of Cork without consulting me first. Compiling versions for your personal use is fine.
-
-[![Mutable.ai Auto Wiki](https://img.shields.io/badge/Auto_Wiki-Mutable.ai-blue)](https://wiki.mutable.ai/buresdv/Cork)
